@@ -17,6 +17,7 @@ describe("Unit Test: API Get Request", () => {
         expect(result).toBeTypeOf("object");
     });
 
+    
     // Test length of returned data
     it("Should return a length of 15", async () => {
         // Arrange
