@@ -1,6 +1,5 @@
 ﻿# JSUnitTestPractice
 
-
 ## Reminder - Vitest Methods:
 - **`npm t`**: Runs the tests
 
